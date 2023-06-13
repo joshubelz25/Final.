@@ -1,0 +1,2 @@
+'use strict'
+alert("You went throught and its pitch dark with a light thats flickering you thought it was the last door or im just stuck somewhere and then in the middle right bottom theres a door that is hopefully is the last one...")
